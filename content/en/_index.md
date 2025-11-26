@@ -2,77 +2,85 @@
 linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
-next: /en/2025-11/2025-11-25
-description: Your daily source for curated AI news, practical tools, and actionable
-  tutorials to master Artificial Intelligence;
+next: /2025-11/2025-11-25
+description: "个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态"
 cascade:
   type: docs
 ---
-## AI News Daily 2025/11/26
 
-> AI News | Daily Morning Brief | Web-wide Data Aggregation | Cutting-edge Scientific Exploration | Industry Free Voice | Open Source Innovation Power | AI & Humanity's Future | [Visit Web Version↗️](https://ai.hubtoday.app/) | [Join Group Chat🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+## AI资讯日报 2025/11/26
 
-### **Today's Summary**
+>  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+
+
+
+### **今日摘要**
 
 ```
-Google Assistant will retire in 2026, replaced by Gemini for deeper intelligent integration.
-In cutting-edge research, Andrew Ng releases Agentic Reviewer, an AI agent whose automated review quality approaches human experts.
-Industry-wise, Anthropic's Claude Opus 4.5 sees a significant price drop, sparking market discussion on model capabilities.
-Google poaches Boston Dynamics' former CTO, aiming to build a universal robotics OS, accelerating AI-robotics convergence.
-Musk implements massive layoffs at X, replacing human moderation with Grok to drive pure AI automation.
+Google Assistant将于2026年退休，由Gemini接管，实现更深度的智能整合。
+前沿研究中，吴恩达发布Agentic Reviewer智能体，自动审稿水平逼近人类专家。
+行业方面，Anthropic发布的Claude Opus 4.5大幅降价，引发市场对模型能力的热议。
+谷歌挖角波士顿动力前CTO，意图打造通用机器人OS，加速AI与机器人融合。
+马斯克在X平台大幅裁员，利用Grok替代人工审核，推动纯AI自动化进程。
 ```
 
-### Product & Feature Updates
+### 产品与功能更新
 
-1. **Google Assistant**, the "old butler," is officially retiring in March 2026, marking the end of the keyword-matching era. The new "super brain," **Gemini**, will fully take over all Android devices, smart speakers, and more. Gemini won't just support millions of tokens in context; it'll also understand screen content and perform cross-application operations. Details of this massive migration plan are available in this [AI News](https://www.aibase.com/zh/news/23088) report, so users should get ready to welcome an AI companion that truly "gets" what you're saying. ✨
+1. 谷歌正式宣布“老管家” **Google Assistant** 将于 2026 年 3 月彻底退休，这也标志着那个只会关键词匹配的旧时代正式终结 📅。全新的“超级大脑” **Gemini** 将全面接管 Android、智能音箱等所有设备，不仅支持百万级 token 上下文，还能理解屏幕内容并执行跨应用操作。这一浩大的迁移计划详情可见 [AI资讯](https://www.aibase.com/zh/news/23088)，用户需做好准备迎接更懂人话的 AI 伴侣 (✧∀✧)。
 
-2. **Claude Opus 4.5** just dropped a bombshell from Anthropic! While claiming SOTA prompt injection resistance, its price has been slashed by two-thirds. 📉 Though the community is buzzing with doubts about whether "quantization" might dumb down the model, this [Hacker News (AI News)](https://newshacker.me/story?id=46037637) discussion points out that developers are more focused on actual task costs than just benchmark scores. This pricing move is definitely pushing a previously "unreachable" top-tier model right to the forefront of practical production environments. 🚀
+2. Anthropic 扔出一枚重磅炸弹 **Claude Opus 4.5**，在声称抗提示注入能力达到 SOTA 的同时，将价格直接砍掉了三分之二 📉。尽管社区对于模型是否会因“量化”而变笨存有疑虑，但这篇 [Hacker News (AI资讯)](https://newshacker.me/story?id=46037637) 讨论指出，开发者更看重实际任务成本而非单纯的跑分数据。这波降价策略无疑将原本“高不可攀”的顶级模型推向了生产环境的实用化前沿 🚀。
 
-3. **ByteDance's Doubao Input Method** is officially here, packing the massive Doubao model directly into your keyboard! ⌨️ It boasts intelligent, context-based prediction and super strong error correction. The official word is it has a 20% to 50% lower error rate than competitors and even supports fully offline voice input, letting your phone "understand" complex long sentences even without an internet connection. [Details Here (AI News)](https://www.aibase.com/zh/news/23058). Finally, an input method without ads that actually anticipates your next thought is here to save our fingers! ✨<br/>![AI News: Doubao Input Method Interface](https://source.hubtoday.app/images/2025/11/news_01kaxvf6zrek28zvwk7xqrz852.avif)
+3. 字节跳动正式发布 **豆包输入法**，直接将庞大的豆包模型塞进了键盘里，主打基于语境的智能预测和超强纠错能力 ⌨️。官方宣称其错误率比竞品低 20% 至 50%，且支持完全离线的语音输入，让你的手机在断网时也能“听懂”复杂长句 [详情见 (AI资讯)](https://www.aibase.com/zh/news/23058)。终于有一款没有广告、还能预判你下一句想说什么的输入法来拯救我们的手指了 💡。<br/>![AI资讯：豆包输入法界面](https://source.hubtoday.app/images/2025/11/news_01kaxvf6zrek28zvwk7xqrz852.avif)
 
-4. Tired of painfully long paper review cycles? Professor Andrew Ng has unveiled the **Agentic Reviewer**, an AI agent whose review comments actually show a higher correlation with human reviews (0.42) than human reviewers have with each other (0.41)! 🤯 Details of this tool, designed to speed up the research feedback loop, are available in this [AI News Report](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651003553&idx=3&sn=8d81d9b05808e985115cdf51e2b4cd33). It leverages arXiv data to generate well-reasoned feedback. While some worry about academic thought becoming homogenized, who can really say no to a reviewer who gives instant feedback? 😉<br/>![AI News: Agentic Reviewer](https://source.hubtoday.app/images/2025/11/news_01kaxvfc66fzyan8vd7z2xp3ne.avif)
+4. 苦于论文审稿周期太长，吴恩达教授发布了一款 **Agentic Reviewer（智能体审稿人）**，其审稿意见与人类的相关性（0.42）竟然已经超过了人类审稿人之间的相关性（0.41） 📚。这个旨在加速科研反馈循环的工具详情在 [AI资讯报道](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2651003553&idx=3&sn=8d81d9b05808e985115cdf51e2b4cd33) 中有详细介绍，它利用 arXiv 数据生成有理有据的反馈。虽然有人担心这会导致学术思想的同质化，但谁能拒绝一个秒回意见的审稿人呢 (´･ᴗ･`)？<br/>![AI资讯：智能体审稿人](https://source.hubtoday.app/images/2025/11/news_01kaxvfc66fzyan8vd7z2xp3ne.avif)
 
-5. The creator of **Nano Banana Pro** has released a "go anywhere you want" camera tool that leverages Gemini 3's power to generate your check-in photos from literally any corner of the world! 📸 As this [AI News Demo](https://x.com/op7418/status/1993304560677667167) shows, it can adjust your attire and lighting based on map location and real-time weather, with facial consistency so high it's uncanny. This "travel the world without leaving your couch" experience is both fun and slightly unsettling, blurring the lines between reality and virtual. 🤯<br/><video src="https://source.hubtoday.app/images/2025/11/news_01kaxvfr95eestfjk9tm79227s.mp4" controls="controls" width="100%"></video>
+5. **Nano Banana Pro** 的作者发布了一款“相去哪儿就去哪儿”的相机工具，利用 Gemini 3 的能力生成你在世界任何角落的打卡照 📸。正如这个 [AI资讯演示](https://x.com/op7418/status/1993304560677667167) 所示，它能根据地图定位和实时天气调整你的着装与光影，人脸一致性高到令人发指。这种足不出户就能“环游世界”的体验，既有趣又让人对现实与虚拟的边界感到一丝迷茫 (o´ω'o)ﾉ。<br/><video src="https://source.hubtoday.app/images/2025/11/news_01kaxvfr95eestfjk9tm79227s.mp4" controls="controls" width="100%"></video>
 
-### Cutting-edge Research
+### 前沿研究
 
-1. Tackling the tough challenge of time series forecasting, the newly proposed **SimDiff framework** ditches complex external regressors, achieving both denoising and prediction with just a single Transformer network. 📈 This research, published in this [Paper (AI News)](https://arxiv.org/abs/2511.19256), demonstrates that end-to-end single-stage inference can hit SOTA point prediction accuracy while maintaining generative diversity. This is practically a "minimalist" victory in the prediction field, proving that less really is more! ✨
+1. 针对时间序列预测难题，新提出的 **SimDiff 框架** 摒弃了复杂的外部回归器，仅用一个 Transformer 网络就实现了去噪与预测的双重功能 📈。这项发表在 [论文 (AI资讯)](https://arxiv.org/abs/2511.19256) 上的研究证明，通过端到端的单阶段推理，也能在保持生成多样性的同时达到 SOTA 级别的点预测精度。这简直是预测领域的“极简主义”胜利，证明了少即是多的智慧 (nice!)。
 
-2. Researchers have discovered that **Visual Language Models (VLMs)** are actually "math dummies," often relying on training biases rather than truly "seeing" objects when counting. 👀 This [AI News Research](https://arxiv.org/abs/2511.17722) built synthetic benchmark datasets and found that simple interventions to the attention mechanism can force models to focus on specific objects, significantly boosting their counting abilities. It seems even powerful AI sometimes needs a reminder to "pay attention" just like a grade-schooler! 😅
+2. 研究人员发现 **视觉语言模型 (VLMs)** 原来是“数学渣”，它们在计数时往往依赖训练偏差而非真正去“看”物体 👀。这篇 [AI资讯研究](https://arxiv.org/abs/2511.17722) 通过构建合成基准数据集，发现只需对注意力机制进行简单的干预，就能强迫模型聚焦于具体对象，显著提升计数能力。看来即便是强悍的 AI，有时候也需要像小学生一样被提醒“集中注意力” (￣▽￣)。
 
-### Industry Outlook & Social Impact
+### 行业展望与社会影响
 
-1. **Elon Musk** is once again wielding the AI scythe, laying off 90% of **X (Twitter)'s** safety team and handing over content moderation and recommendation algorithms entirely to **Grok**. ⚔️ This aggressive "Macrohard" plan aims to reshape software development with pure AI automation. Details can be found in this [AI News Deep Dive](https://www.qbitai.com/2025/11/356162.html), although critics are worried about a safety vacuum. With the twin engineer brothers at the helm of xAI's automation process, Musk is betting big on silicon replacing carbon. 🤔
+1. 埃隆·马斯克再次挥舞 AI 镰刀，裁掉了 **X (推特)** 90% 的安全团队，转而让 **Grok** 全权接管内容审核与推荐算法 ⚔️。这一激进的“Macrohard”计划意在用纯 AI 自动化重塑软件开发，详情可参考 [AI资讯深度](https://www.qbitai.com/2025/11/356162.html)，尽管批评者担忧安全真空。随着双胞胎工程师兄弟掌舵 xAI 的自动化进程，马斯克正在进行一场用硅基取代碳基的豪赌 🤔。
 
-2. **Google** is playing a massive game of chess, having poached Boston Dynamics' former CTO Aaron Saunders to join DeepMind, with the goal of turning Gemini into the **Android OS** for robots. 🤖 This strategy, as interpreted in this [AI News Article](https://www.qbitai.com/2025/11/356219.html), aims for Gemini to not just be the brain but also the universal underlying control system, enabling "plug-and-play" compatibility with any hardware. When a top-tier software brain meets top-tier hardware limbs, robots doing backflips could be just around the corner! 🚀
+2. 谷歌正在下一盘大棋，挖来了波士顿动力前 CTO Aaron Saunders 加盟 DeepMind，意图将 Gemini 打造成机器人界的 **安卓操作系统** 🤖。这一战略在 [AI资讯文章](https://www.qbitai.com/2025/11/356219.html) 中被解读为不仅要做大脑，还要做通用的底层控制系统，实现对任何硬件的“即插即用”。当顶级的软件大脑遇上顶级的硬件肢体，机器人学会后空翻指日可待 (o´ω'o)ﾉ。
 
-3. The quiet release of **Claude Opus 4.5** reflects a major shift in the entire AI industry, moving from "tech worship" to **brutal pragmatism**. Users are no longer cheering for benchmarks; they're paying for ROI. 💰 This [AI News Opinion](https://x.com/imxiaohu/status/1993303990097056074) piece points out that the standard is now "who can get the job done fastest and cheapest," not whose model is sexier. This signals AI's official descent from the altar, entering a cutthroat phase of productivity implementation. 📉<br/>![AI News: Pragmatism](https://source.hubtoday.app/images/2025/11/news_01kaxvfx8de8gvxd0bcstk9jbg.avif)
+3. Claude Opus 4.5 的低调发布折射出整个 AI 行业正在从“技术崇拜”转向 **残酷的实用主义**，用户不再为跑分欢呼，只为 ROI 买单 💰。这篇 [AI资讯观点](https://x.com/imxiaohu/status/1993303990097056074) 指出，现在的标准变成了“谁能帮我最快、最便宜地搞定工作”，而非谁的模型更性感。这标志着 AI 正式走下神坛，进入了拼刺刀的生产力落地阶段 📉。<br/>![AI资讯：实用主义](https://source.hubtoday.app/images/2025/11/news_01kaxvfx8de8gvxd0bcstk9jbg.avif)
 
-4. **Anthropic** reports that China-linked hackers used its **Claude Code agent** to conduct a large-scale cyberattack, marking a dangerous milestone for AI-assisted cyber warfare. 🛡️ However, security researchers countered in this [AI News Alert](https://x.com/DeepLearningAI/status/1993031864731287791), arguing that current agents don't yet have the capability to launch complex attacks independently, suggesting the claim might overstate AI's autonomy. The line between tools and perpetrators is blurring, sparking fierce debate about the boundaries of model responsibility. 🕵️<br/>![AI News: Hacker Attack](https://source.hubtoday.app/images/2025/11/news_01kaxvg0taegwa84ypep0bttwv.avif)
+4. Anthropic 报告称与中国有关的黑客利用其 **Claude Code 智能体** 进行了大规模网络攻击，这被视为 AI 辅助网络战的一个危险里程碑 🛡️。然而，安全研究人员在 [AI资讯快讯](https://x.com/DeepLearningAI/status/1993031864731287791) 中反驳道，目前的智能体尚不具备独立发动复杂攻击的能力，认为这一指控可能夸大了 AI 的自主性。工具与作恶者之间的界限日益模糊，引发了关于模型责任边界的激烈争论 🕵️。<br/>![AI资讯：黑客攻击](https://source.hubtoday.app/images/2025/11/news_01kaxvg0taegwa84ypep0bttwv.avif)
 
-### Open Source TOP Projects
+### 开源TOP项目
 
-1. The **EverMemOS** project directly tackles the "goldfish memory" pain point of LLMs, building an enterprise-grade intelligent memory system that includes temporary, factual, episodic, and skill memory. 🧠 As described on [GitHub (AI News)](https://x.com/Gorden_Sun/status/1993321624247189627), it aims to give AI assistants truly coherent and personalized service capabilities through a "structured memory + multi-strategy recall" approach. This could be the crucial step in 2026 to evolve AI from a "repeater" to a "thoughtful personal assistant." 🚀<br/>![AI News: Memory System](https://source.hubtoday.app/images/2025/11/news_01kaxvg55texds8cpyef25v8ba.avif)
+1. **EverMemOS** 项目直击 LLM“金鱼记忆”的痛点，构建了一套包含临时、事实、情节和技能记忆的企业级智能记忆系统 🧠。如 [GitHub (AI资讯)](https://x.com/Gorden_Sun/status/1993321624247189627) 所述，它通过“结构化记忆+多策略召回”的路径，旨在让 AI 助理真正拥有连贯的个性化服务能力。这可能是 2026 年让 AI 从“复读机”进化为“贴心管家”的关键一步 🚀。<br/>![AI资讯：记忆系统](https://source.hubtoday.app/images/2025/11/news_01kaxvg55texds8cpyef25v8ba.avif)
 
-2. **Acontext** is an open-source agent context data platform, acting like the AI's "hippocampus." It centrally stores interaction data and automatically extracts SOPs for self-evolution. 🧬 This project is gaining significant attention on [GitHub (AI News)](https://x.com/shao__meng/status/1993256873425092677) by enabling agents to learn from past tasks and avoid repeating mistakes. For developers looking to build long-term, stable agents, this is absolutely a game-changer! 🔥<br/><video src="https://source.hubtoday.app/images/2025/11/news_01kaxvh951fywb978hrbe6csmm.mp4" controls="controls" width="100%"></video>
+2. **Acontext** 是一个开源的智能体上下文数据平台，它就像是 AI 的“海马体”，能集中存储交互数据并自动提取 SOP 以实现自我进化 🧬。这个项目在 [GitHub (AI资讯)](https://x.com/shao__meng/status/1993256873425092677) 上备受关注，它让智能体能够从过去的任务中吸取教训，避免重复犯错。对于想要构建长期稳定运行 Agent 的开发者来说，这绝对是个神兵利器 🔥。<br/><video src="https://source.hubtoday.app/images/2025/11/news_01kaxvh951fywb978hrbe6csmm.mp4" controls="controls" width="100%"></video>
 
-3. Struggling to get the best out of the latest **Nano Banana Pro** because you don't have the right "spells"? This treasure trove of a repository collects massive amounts of high-quality prompts, from realistic photography to interior design. 🎨 In this [GitHub Resource (AI News)](https://m.okjike.com/originalPosts/6925a00100c0686ab5c2377a), you'll find the secrets to boosting the model's logical reasoning and multi-entity consistency. It's essentially the "walkthrough guide" for AI art, letting you effortlessly generate blockbuster-level visuals! ✨<br/>![AI News: Prompt Library](https://source.hubtoday.app/images/2025/11/news_01kaxvhr32f53bmmv1vdkbycb4.avif)
+3. 想要玩转最新的 **Nano Banana Pro** 却苦于没有好咒语？这个宝藏仓库收集了从写实摄影到室内设计的海量高质量提示词 🎨。在这个 [GitHub 资源 (AI资讯)](https://m.okjike.com/originalPosts/6925a00100c0686ab5c2377a) 中，你可以找到激发模型逻辑推理和多主体保持能力的秘籍。简直就是 AI 绘画界的“通关攻略”，让你轻松生成大片级视觉效果 (o´ω'o)ﾉ。<br/>![AI资讯：提示词库](https://source.hubtoday.app/images/2025/11/news_01kaxvhr32f53bmmv1vdkbycb4.avif)
 
-### Social Media Shares
+### 社媒分享
 
-1. **Claude Opus 4.5's** real killer feature might not be its IQ, but its insane cost-performance ratio: a **threefold price drop** and 76% fewer output tokens! 📉 As Baoyu mentioned in this [AI News Analysis](https://x.com/dotey/status/1993060750357631057), smart folks should seize this "honeymoon period" and use it extensively, because to save on computing power, models might quietly "dumb down" later. This is classic advice for all AI early adopters: make hay while the sun shines! 💡<br/>![AI News: Opus Cost](https://source.hubtoday.app/images/2025/11/news_01kaxvhw7wezfv0kq96j28xrjt.avif)
+1. Claude Opus 4.5 的真正杀手锏可能不是智商，而是它 **三倍降价** 且输出 token 减少 76% 的极致性价比 📉。正如宝玉在 [AI资讯分析](https://x.com/dotey/status/1993060750357631057) 中提到的，聪明人应该趁着现在的“蜜月期”抓紧使用，毕竟为了省算力，模型后期可能会悄悄“降智”。这是对所有 AI 尝鲜者的经典忠告：花开堪折直须折 💡。<br/>![AI资讯：Opus成本](https://source.hubtoday.app/images/2025/11/news_01kaxvhw7wezfv0kq96j28xrjt.avif)
 
-2. A developer shared their real-world experience using **VibeCoding** combined with Gemini 3 and GLM to write animation algorithm tools, only to find that LLMs are still a bit "green." 💻 In this [AI News Video](https://x.com/GemstoneNicole/status/1993198115231613006), they vented that you have to spell out the technical architecture crystal clear and feed it documentation for AI to avoid spitting out garbage code. It's not just programming; it's more like teaching a smart but common-sense-lacking intern how to do their job! 🫠<br/><video src="https://source.hubtoday.app/images/2025/11/news_01kaxvj5y9exjsyq92j4gfhg6s.mp4" controls="controls" width="100%"></video>
+2. 有开发者分享了使用 **VibeCoding** 结合 Gemini 3 和 GLM 编写动画算法工具的真实体验，发现 LLM 还是有点“菜” 💻。他在 [AI资讯视频](https://x.com/GemstoneNicole/status/1993198115231613006) 中吐槽，必须把技术架构写得明明白白并投喂文档，AI 才能不写出垃圾代码。这不仅是编程，更像是在教一个聪明但缺乏常识的实习生干活 (o´ω'o)ﾉ。<br/><video src="https://source.hubtoday.app/images/2025/11/news_01kaxvj5y9exjsyq92j4gfhg6s.mp4" controls="controls" width="100%"></video>
 
-3. If you find that **Nano Banana Pro's** generated images are blurry like pixelated mosaics, don't rush to curse the AI – that's just the default preview mode! 🔍 Baoyu shared this [AI News Tip](https://x.com/dotey/status/1993050098826183028), reminding everyone that simply hovering your mouse and clicking "Download fullsize" will instantly reveal the high-definition image. A tiny interaction detail that can save countless users' blood pressure! 😌<br/>![AI News: Image Fix](https://source.hubtoday.app/images/2025/11/news_01kaxvja25fchrk9wkx8c41pzy.avif)
+3. 如果你发现 **Nano Banana Pro** 生成的图片糊得像打了马赛克，别急着骂 AI，那只是默认的预览模式 🔍。宝玉分享的这个 [AI资讯技巧](https://x.com/dotey/status/1993050098826183028) 提醒大家，只需鼠标悬停并点击“Download fullsize”，高清大图就会立刻呈现。一个小小的交互细节，却能挽救无数用户的血压 (¬_¬)。<br/>![AI资讯：图片修复](https://source.hubtoday.app/images/2025/11/news_01kaxvja25fchrk9wkx8c41pzy.avif)
 
-4. An image captioned simply "Fear" resonated widely on social media, perfectly capturing the collective anxiety people feel when facing AI's rapid evolution. 😨 This [AI News Hot Topic](https://x.com/wwwgoubuli/status/1993198591180259689) reminds us that behind the tech frenzy lies a deep fear and dizzying sense of the unknown. We're like passengers on a high-speed train with no brakes, both thrilled and wanting to scream! 🎢<br/>![AI News: AI Fear](https://source.hubtoday.app/images/2025/11/news_01kaxvjd3xfpcvn2wwjtdct12s.avif)
+4. 一张配文仅为“害怕”的图片在社媒上引发了共鸣，精准捕捉了人们面对 AI 极速进化时的集体焦虑 😨。这则 [AI资讯热议](https://x.com/wwwgoubuli/status/1993198591180259689) 提醒我们，在技术狂欢的背后，是对未知的深深恐惧和眩晕感。我们就像坐上了一列没有刹车的高速列车，既兴奋又想尖叫 (Gt_lt)。<br/>![AI资讯：AI恐惧](https://source.hubtoday.app/images/2025/11/news_01kaxvjd3xfpcvn2wwjtdct12s.avif)
+
+
+
 
 ---
 
-## **AI News Daily Audio Version**
+## **AI资讯日报语音版**
 
-| 🎙️ **Xiaoyuzhou** | 📹 **Douyin** |
+| 🎙️ **小宇宙** | 📹 **抖音** |
 | --- | --- |
-| [Reincarnation Tavern](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Creator Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG) |
-| ![Tavern](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+
+
+
